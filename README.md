@@ -1,7 +1,7 @@
 # Automated Video Content Evaluation & Summarization
 An intelligent video analytics framework that automatically evaluates video content and generates concise summaries by extracting the most relevant keyframes and objects.
 This project leverages deep learning, computer vision, and analytics techniques to identify important segments in a video and produce structured, insightful outputs.
-
+Paper published in (Indexed in SCOPUS) - https://link.springer.com/chapter/10.1007/978-981-19-0707-4_22
 ## Project Overview
 The system processes an input video and:
 	• Extracts deep visual features using VGG19
